@@ -5,8 +5,5 @@ true // sinle line comment
 
 /* multiple line comment
 */
-
-<script>
-console.log(Alfred Lystad)
-console.log(Rice Bowl)
-</script>
+console.log("Alfred Lystad");
+console.log("Rice Bowl");
